@@ -1,7 +1,7 @@
 # Customers_Segmentation
 Introduction:
 
-This repository presents an in-depth analysis of customer segmentation, aimed at understanding the diverse characteristics and behaviors of our clientele to optimize marketing strategies and product offerings.
+This repository presents an in-depth analysis of customer segmentation, aimed at understanding the diverse characteristics and behaviors of diverse clientele to optimize marketing strategies and product offerings.
 Overview:
 
 The analysis encompasses a comprehensive exploration of a dataset comprising 29 columns and 2240 entries, containing crucial information such as customer demographics, spending patterns, and responses to marketing campaigns. Through a combination of descriptive statistics, data visualization techniques, machine learning models, and segmentation analysis, we aim to extract actionable insights to drive strategic decision-making.
